@@ -1,0 +1,23 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "Testing practice using Jest framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpire/js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpire/js-testing/issues"
+  },
+  "homepage": "https://github.com/rpire/js-testing#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
